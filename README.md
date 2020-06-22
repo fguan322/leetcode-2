@@ -1,6 +1,41 @@
-# leetcode-2
+# leetcode-zhuli
 Leetcode revision, premium problems included.
 <hr/>
+
+Current progress:
+- Algorithm  : 1148/1318
+- Database   : 89/108
+- Shell      : 4/4
+- Concurrency: 9/9
+
+Explore problems:
+- LeetCode 30 Day Challenge
+- Adobe Interview
+- Amazon Interview
+- Apple Interview
+- Bloomberg Interview
+- Facebook Interview
+- Google Interview
+- LinkedIn Interview
+- Microsoft Interview
+- Uber Interview
+- Yelp Interview
+- Array and String
+- Arrays 101
+- Binary Search
+- Binary Search Tree
+- Binary Tree
+- Decision Tree
+- Hash Table
+- Linked List
+- N-ary Tree
+- Queue & Stack
+- Recursion I
+- Recursion II
+- Top Interview Questions Easy
+- Top Interview Questions Hard
+- Top Interview Questions Mediun
+- Trie
 
 This is a repo containing my <b>accepted codes</b> on Leetcode.
 
